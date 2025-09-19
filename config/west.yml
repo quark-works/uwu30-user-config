@@ -3,14 +3,14 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: armastardo
-      url-base: https://github.com/Armastardo
+      url-base: https://github.com/quark-works
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: bault-zmk-config
-      remote: armastardo
+    - name: uwu30-zmk-config
+      remote: quark-works
       revision: main
   self:
     path: config
