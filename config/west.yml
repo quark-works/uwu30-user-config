@@ -2,7 +2,7 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: armastardo
+    - name: quark-works
       url-base: https://github.com/quark-works
   projects:
     - name: zmk
