@@ -31,5 +31,29 @@
                 &kp N1         &kp N2  &kp N3     &kp N4               &kp N5           &kp N6 &kp N7
             >;
         };
+
+        extra1 {
+            status = "reserved";
+        };
+
+        extra2 {
+            status = "reserved";
+        };
+
+        extra3 {
+            status = "reserved";
+        };
+
+        extra4 {
+            status = "reserved";
+        };
+
+        extra5 {
+            status = "reserved";
+        };
+
+        extra6 {
+            status = "reserved";
+        };
     };
 };
